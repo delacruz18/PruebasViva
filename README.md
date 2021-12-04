@@ -1,4 +1,4 @@
-# PrubasViva
+# PruebasViva
 
 Importar el proyecto como (Proyecto existente de maven)
 Ejecutar con el build de maven   (Goals "clean install serenity:aggregate"   profiles "prueba")
